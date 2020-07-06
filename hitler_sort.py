@@ -31,9 +31,13 @@ def hitler_sort(array):
 	return array
 
 if __name__ == "__main__":
+	# TEST CASE
 	list =[]
+	lower = upper = int(input("lower random interval: "))
+	upper = int(input("upper random interval: "))
+
 	for i in range(int(input("how big will your hitler_sort gonna be: "))):
-		list.append(random.randint(input("lower random interval: "),input("upper random interval: ")))
+		list.append(random.randint(lower, upper))
 
 	list = hitler_sort(list)
 	print(list)
