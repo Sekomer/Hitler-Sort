@@ -33,7 +33,7 @@ def hitler_sort(array):
 if __name__ == "__main__":
 	# TEST CASE
 	list =[]
-	lower = upper = int(input("lower random interval: "))
+	lower = int(input("lower random interval: "))
 	upper = int(input("upper random interval: "))
 
 	for i in range(int(input("how big will your hitler_sort gonna be: "))):
