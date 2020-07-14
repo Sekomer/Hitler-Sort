@@ -7,3 +7,5 @@
 
 [1]: https://en.wikipedia.org/wiki/Adolf_Hitler
 [2]: https://en.wikipedia.org/wiki/Prime_number
+
+PS: It's made for fun in quarantine, don't take it seriously
