@@ -1,4 +1,3 @@
-# HITLER SORT BY SEKOMER
 
 import random
 
