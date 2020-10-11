@@ -1,6 +1,6 @@
 # Unique sorting algorythm created by two geniuses
- While creating this algorythm, we inspired from [You-Know-Who][1]. If you are not [Aryan][2] enough, you are gone.   
- If you are not following orders, you are gone.
+> While creating this algorythm, we inspired from [You-Know-Who][1]. If you are not [Aryan][2] enough, you are gone.   
+> If you are not following orders, you are gone.
  ---
  Inspired by [Stalin Sort](https://github.com/gustavo-depaula/stalin-sort)
 ---
